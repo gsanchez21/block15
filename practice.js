@@ -14,7 +14,9 @@
 
 //updating object property value
 // shoe.color = 'Blue';
+//  shoe['color'] = 'Blue;
 // console.table(shoe);
+//
 
 // delete shoe.velcro;
 // console.table(shoe);
